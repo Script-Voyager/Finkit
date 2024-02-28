@@ -262,6 +262,7 @@ img {
     background-position: center;
     background-repeat: no-repeat;
     background-size: 354px;
+    /* z-index: ; */
 }
 
 .header_box_content_img {
