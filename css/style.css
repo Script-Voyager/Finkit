@@ -261,7 +261,11 @@ img {
     background-image: url('../img/header_img.png');
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 354px;
+    background-size: 304px;
+}
+
+.header_box_content {
+    margin-top: 20px;
 }
 
 .header_box_content_img {
