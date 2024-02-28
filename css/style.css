@@ -3,10 +3,10 @@
     font-family: 'Inter';
     font-style: thin;
     font-weight: 300;
-    src: url('/font/static/Inter-Thin.ttf') format('ttf');
+    src: url('../font/static/Inter-Thin.ttf') format('ttf');
     src: local(''),
-        url('/font/static/Inter-Thin.ttf') format('ttf'),
-        url('/font/static/Inter-Thin.woff') format('woff');
+        url('../font/static/Inter-Thin.ttf') format('ttf'),
+        url('../font/static/Inter-Thin.woff') format('woff');
     font-display: swap;
 }
 
@@ -15,10 +15,10 @@
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    src: url('/font/static/Inter-Regular.ttf') format('ttf');
+    src: url('../font/static/Inter-Regular.ttf') format('ttf');
     src: local(''),
-        url('/font/static/Inter-Regular.ttf') format('ttf'),
-        url('/font/static/Inter-Regular.woff') format('woff');
+        url('../font/static/Inter-Regular.ttf') format('ttf'),
+        url('../font/static/Inter-Regular.woff') format('woff');
     font-display: swap;
 }
 
@@ -27,10 +27,10 @@
     font-family: 'Inter';
     font-style: medium;
     font-weight: 500;
-    src: url('/font/static/Inter-Medium.ttf') format('ttf');
+    src: url('../font/static/Inter-Medium.ttf') format('ttf');
     src: local(''),
-        url('/font/static/Inter-Medium.ttf') format('ttf'),
-        url('/font/static/Inter-Medium.woff') format('woff');
+        url('../font/static/Inter-Medium.ttf') format('ttf'),
+        url('../font/static/Inter-Medium.woff') format('woff');
     font-display: swap;
 }
 
@@ -39,10 +39,10 @@
     font-family: 'Inter';
     font-style: semibold;
     font-weight: 600;
-    src: url('/font/static/Inter-SemiBold.ttf') format('ttf');
+    src: url('../font/static/Inter-SemiBold.ttf') format('ttf');
     src: local(''),
-        url('/font/static/Inter-SemiBold.ttf') format('ttf'),
-        url('/font/static/Inter-SemiBold.woff') format('woff');
+        url('../font/static/Inter-SemiBold.ttf') format('ttf'),
+        url('../font/static/Inter-SemiBold.woff') format('woff');
     font-display: swap;
 }
 
@@ -51,10 +51,10 @@
     font-family: 'Inter';
     font-style: bold;
     font-weight: 700;
-    src: url('/font/static/Inter-Bold.ttf') format('ttf');
+    src: url('../font/static/Inter-Bold.ttf') format('ttf');
     src: local(''),
-        url('/font/static/Inter-Bold.ttf') format('ttf'),
-        url('/font/static/Inter-Bold.woff') format('woff');
+        url('../font/static/Inter-Bold.ttf') format('ttf'),
+        url('../font/static/Inter-Bold.woff') format('woff');
     font-display: swap;
 }
 
@@ -258,7 +258,7 @@ img {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url('/img/header_img.png');
+    background-image: url('../img/header_img.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: 374px;
@@ -404,7 +404,7 @@ img {
     .header_images {
         top: -113px;
         left: 20px;
-        background-image: url('/img/header_img_1024.png');
+        background-image: url('../img/header_img_1024.png');
         background-size: 450px;
     }
 
@@ -444,7 +444,7 @@ img {
     .header_images {
         top: -154px;
         left: 272px;
-        background-image: url('/img/header_img_1024.png');
+        background-image: url('../img/header_img_1024.png');
         background-size: 450px;
     }
 
@@ -615,7 +615,7 @@ img {
         position: absolute;
         top: 0;
         left: 432px;
-        background-image: url('/img/header_img_1024.png');
+        background-image: url('../img/header_img_1024.png');
         background-size: 670px;
     }
 
@@ -820,7 +820,7 @@ img {
         position: absolute;
         top: 9px;
         left: 641px;
-        background-image: url('/img/header_img_1440.png');
+        background-image: url('../img/header_img_1440.png');
         background-size: 760px;
     }
 
